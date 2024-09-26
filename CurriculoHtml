@@ -1,0 +1,68 @@
+<!DOCTYPE html> <!--Declara que o documento está no formato HTML5.-->
+<html lang='pt-BR'> <!--Inicia o documento HTML e define o idioma da página como português do Brasil.-->
+
+<head>
+  <!--serve como um contêiner para informações descrevem o conteúdo da página, mas não são exibidos diretamente no navegador.-->
+  <title> Currículo </title> <!--define o título da página, que aparece na aba do navegador.-->
+
+</head>
+
+<body> <!--Inicia a seção do corpo do documento, onde o conteúdo visível da página é colocado.-->
+  <h1> <!--título principal da página-->
+    Otávio Augusto Franco Fernandes
+  </h1>
+
+  <h2> <!--representa um subtítulo-->
+    Cursando Analise e Desenvolvimento de Sistemas (4º período)
+  </h2>
+
+  <h3> <!--usada para um subtítulo menor-->
+    Email: otavioaff2005@gmail.com
+  </h3>
+
+  <h4> <!--define um subtítulo ainda menor-->
+    Endereço: Rua Matutina 351, bairro Santa Inês, Belo Horizonte
+  </h4>
+
+  <h5> <!--define um subtítulo ainda menor-->
+    UCS já cursadas:
+    <p> <!--A tag <p> é usada para definir um parágrafo-->
+      1-Programação de soluções computacionais
+    </p>
+    2-Ambientes computacionais e conectividade
+    <p>
+      3-Modelagem de software
+    </p>
+    4-Modelos, métodos e técnicas da engenharia de software
+    <p>
+      5-Sistemas computacionais e segurança
+    </p>
+    6-Gestão e qualidade de software
+  </h5>
+  <img src="FotoEu.jpeg" alt="Foto de Perfil" width="114" height="142">
+  <!--A tag <img> exibe uma imagem. src define o caminho para o arquivo da imagem, alt fornece uma descrição alternativa caso a imagem não carregue, e width e height definem o tamanho da imagem.-->
+  <p>
+    Sou uma pessoa que adora explorar novos interesses e manter um equilíbrio saudável na vida. No meu tempo livre gosto
+    de ficar com família, amigos e amo viajar.
+    Apaixonado por futebol e atleticano desde o primeiro dia de vida, gosto de jogar futevôlei e academia que me ajudam
+    a manter a forma e a mente ativa. A família é
+    uma parte fundamental da minha vida e por isso valorizo aqueles que somam comigo e estão no meu dia a dia.
+  </p>
+  Sobre meu currículo acadêmico,atualmente estudante de Analise e Desenvolvimento de Sistemas na Instituição UNA.
+  Durante meu ensino médio, conclui um curso técnico
+  em Informática, onde adquiri habilidades práticas e conhecimentos fundamentais em ti. Estou entusiasmado para aplicar
+  o que aprendi e expandir meus conhecimentos
+  acadêmicos, focando em programação. Estou comprometido em aprender continuamente e explorar oportunidades de estágio e
+  projetos que possam me ajudar a desenvolver
+  minhas habilidades e me preparar para o mercado de trabalho.
+
+  <p>
+    <a href=https://www.linkedin.com/in/ot%C3%A1vio-augusto-franco-fernandes-34489529b />Linkedin</a>
+    <!--A tag <a> cria um link. O atributo href define o destino do link,-->
+  </p>
+</body>
+<!--Fecha a seção do corpo do documento e o documento HTML em si.-->
+
+
+
+</html>
